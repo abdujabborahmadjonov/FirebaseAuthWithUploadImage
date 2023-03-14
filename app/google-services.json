@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "561165372007",
+    "project_id": "fir-authwithuploadimage",
+    "storage_bucket": "fir-authwithuploadimage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561165372007:android:b9fbd0e867854ca221a2c2",
+        "android_client_info": {
+          "package_name": "dev.abdujabbor.firebaseauthwithuploadimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561165372007-tqefotkgtris9rmrbpvl27qq4134dnmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABo47giPzAhthDzqZupjog9PKnszSrSQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561165372007-tqefotkgtris9rmrbpvl27qq4134dnmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
